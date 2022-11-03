@@ -1,0 +1,26 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+    text-align: right;
+  }
+  p {
+    color: red;
+    text-align: center;
+  }
+
+  #para1 {
+    text-align: center;
+    color: rgb(255, 0, 255);
+  }
+
+  .center {
+    text-align: center;
+    color: red;
+  }
+
+  p.center {
+    text-align: center;
+    color: rgba(14, 10, 17, 0.493);
+  }
